@@ -1,6 +1,6 @@
 # RayFin-TEvolution
 
-# Workflow Documentation for "Swimming to Jumping: Unveiling the Dynamic World of Transposable Elements in Ray-finned Fish Evolution"
+## Workflow Documentation for "Investigating the impact of whole genome duplication on transposable element evolution in ray-finned fishes"
 
 ## Overview
 These are the steps followed to obtain the results presented in the paper.
