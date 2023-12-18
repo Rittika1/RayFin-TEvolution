@@ -7,7 +7,8 @@ These are the steps followed to obtain the results presented in the paper.
 
 ### Initial Data Processing
 - The data was provided in the format .fsa.
-- Due to contaminations like adapters and duplicate sequences, the file was initially rejected by NCBI.
+- Due to contaminations like adapters and duplicate sequences, the file was initially rejected by NCBI.\
+- **Script Used**: `remove_TSA_contamination.py`
 
 ### Genome Annotation
 - **Script Used**: `fullbrakerpipeline_bichir.sh`
